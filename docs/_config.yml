@@ -1,2 +1,7 @@
-theme: jekyll-theme-slate
-title: Portfólio — Relatividade Geral
+title: Portfólio — Doutorado
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Cor de destaque do menu (opcional)
+color_scheme: light
