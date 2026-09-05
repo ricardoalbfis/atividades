@@ -1,3 +1,7 @@
 streamlit
-numpy
+camb
 matplotlib
+numpy
+plotly
+streamlit
+pandas
