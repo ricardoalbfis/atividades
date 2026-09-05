@@ -21,7 +21,7 @@ with st.sidebar.form("controles_cosmologicos"):
     
     calcular = st.form_submit_button("Calcular Gráfico")
 
-# Função base com cache e lmax=1500
+# Função base csom cache e lmax=1500
 @st.cache_data
 def modelo_base():
     pars_base = camb.CAMBparams()
