@@ -1,7 +1,7 @@
 """
 Simulação: precessão do periélio (correção de Schwarzschild)
 Execute localmente com: streamlit run app.py
-Ou publique de graça em https://share.streamlit.io
+Ou publique de graa em https://share.streamlit.io
 """
 
 import numpy as np
