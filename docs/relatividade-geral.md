@@ -7,9 +7,7 @@ nav_order: 2
 
 Atividades desenvolvidas ao longo da disciplina.
 
-## Simulações
-
-* [Precessão do periélio de Mercúrio (Streamlit)](https://SEU-APP.streamlit.app)
+> As simulações interativas desta disciplina estão reunidas na aba [Simulações](simulacoes.html).
 
 ## Notebooks
 
