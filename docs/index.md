@@ -1,7 +1,6 @@
-\---
-
+---
 ## layout: default
-
+---
 # Portfólio — Relatividade Geral
 
 Atividades desenvolvidas ao longo da disciplina.
