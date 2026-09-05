@@ -1,6 +1,7 @@
 ---
-## layout: default
+layout: default
 ---
+
 # Portfólio — Relatividade Geral
 
 Atividades desenvolvidas ao longo da disciplina.
@@ -19,9 +20,6 @@ Atividades desenvolvidas ao longo da disciplina.
 * [Lista 02 — Relatividade Geral](pdfs/Lista%2002%20-%20Relatividade%20Geral%20-%20Ricardo%20Albrecht.pdf)
 * [Lista 03 — Relatividade Geral](pdfs/Lista%2003%20-%20Relatividade%20Geral%20-%20Ricardo%20Albrecht.pdf)
 
-\---
+---
 
 *Atualizado automaticamente a cada envio (push) para o repositório.*
-
-
-
