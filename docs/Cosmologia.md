@@ -5,5 +5,5 @@ nav_order: 3
 
 # Nome da Disciplina
 
-Conteúdo em breve.
+Conteúdo em breve
 
