@@ -3,7 +3,7 @@ title: Introdução à Cosmologia
 nav_order: 3
 ---
 
-# Nome da Disciplina
+# Introdução à Cosmologia
 
-Conteúdo em breve
+Conteúdo em breve.
 
